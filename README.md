@@ -1,3 +1,6 @@
+Deployment: https://url-shortner-fe-zvwc.onrender.com/
+
+
 //to insatall all dependencies
 
 npm install
